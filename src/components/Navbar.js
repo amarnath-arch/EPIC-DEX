@@ -36,7 +36,8 @@ const Navbar = ()=>{
         <div className="exchange__header grid">
             <div className="exchange__header--brand flex">
                 <img  src={Logo} className="logo" alt="Logo"></img>
-                <h1 style={{fontFamily: 'PopArt'}}>EPIC DeX</h1>
+                <h1 style={{fontFamily: 'PopArt', fontWeight: '1200', fontSize:'300%'}}> EPIC DeX </h1>
+
             </div>
 
             <div className="exchange__header--networks flex">
