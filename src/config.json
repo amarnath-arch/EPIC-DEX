@@ -1,0 +1,48 @@
+{
+    "31337":{
+        "exchange":{
+            "address":"0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+        },
+        "mDAI":{
+            "address":"0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+        },
+        "mEth":{
+            "address":"0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+        },
+        "epic":{
+            "address":"0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        },
+        "explorerUrl":"#"
+    },
+    "5":{
+        "exchange":{
+            "address":"0xc53987eA8fb133b62033A9de6E07A3bA6977F2b5"
+        },
+        "mDAI":{
+            "address":"0x9D7fd2a60be6b1AeF75ecc4a25D8B91f7B3CC78f"
+        },
+        "mEth":{
+            "address":"0xFA692821a9fe31DA8b7Fdf9e81D720B09A2A06a6"
+        },
+        "epic":{
+            "address":"0x8aAF1456D064960454F67B2af79d8bd1AF3675Ea"
+        },
+        "explorerUrl": "https://goerli.etherscan.io/"
+    },
+    "80001":{
+        "exchange":{
+            "address":"0x68d9bAca1E76A63E886D9A95A166dfAa31726833"
+        },
+        "mDAI":{
+            "address":"0xFC087E1dBDca1D75767FB54ECDB98dE5FFB81f8B"
+        },
+        "mEth":{
+            "address":"0x58CDbf1E62a449Fa4fa433F2C789f8051B3A0725"
+        },
+        "epic":{
+            "address":"0x282d7FCB4796f8A7e46C3A2149d86e28bC135e85"
+        },
+        "explorerUrl": "https://mumbai.polygonscan.com/"
+    }
+
+}
